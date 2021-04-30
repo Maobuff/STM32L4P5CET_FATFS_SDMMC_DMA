@@ -1,0 +1,4 @@
+*.cfg
+*.launch
+Debug/
+.settings/
